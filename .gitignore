@@ -1,0 +1,16 @@
+# Исполняемые файлы
+/dividebyzero1
+/dividebyzero2  
+/pulse
+/pulse_simple
+/wait_input
+
+# Объектные файлы
+*.o
+
+# Резервные копии
+*~
+*.bak
+
+# Временные файлы
+*.tmp
